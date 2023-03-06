@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.25/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CheckCCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CheckIncludeFiles.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Internal/CheckCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Internal/CheckFlagCommonConfig.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/morit/Desktop/C++/Third-Dimention/external/freeglut/CMakeLists.txt
+C:/Users/morit/Desktop/C++/Third-Dimention/external/freeglut/FreeGLUTConfig.cmake.in
+C:/Users/morit/Desktop/C++/Third-Dimention/external/freeglut/config.h.in
+C:/Users/morit/Desktop/C++/Third-Dimention/external/freeglut/freeglut.pc.in
+C:/Users/morit/Desktop/C++/Third-Dimention/external/freeglut/freeglut.rc.in
+C:/Users/morit/Desktop/C++/Third-Dimention/external/freeglut/src/fg_version.h.in

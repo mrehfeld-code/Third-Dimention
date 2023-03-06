@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\morit\Desktop\C++\Third-Dimention\external\freeglut\progs\demos\spaceball\spaceball.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\morit\Desktop\C++\Third-Dimention\external\freeglut\progs\demos\spaceball\vmath.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\morit\Desktop\C++\Third-Dimention\external\freeglut\progs\demos\spaceball\vmath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\morit\Desktop\C++\Third-Dimention\external\freeglut\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0C50237B-707F-31EA-8399-C6B9E2D41515}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A20AA294-BE27-3192-AA6D-B5730CA72B29}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

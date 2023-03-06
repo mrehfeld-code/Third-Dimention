@@ -1,0 +1,189 @@
+The system is: Windows - 10.0.19044 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+MSBuild version 17.3.1+2badb37d1 for .NET Framework
+Der Buildvorgang wurde am 06.03.2023 17:28:08 gestartet.
+Projekt "C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\3.25.0-rc1\CompilerIdC\CompilerIdC.vcxproj" auf Knoten "1" (Standardziele).
+PrepareForBuild:
+  Das Verzeichnis "Debug\" wird erstellt.
+  Das Verzeichnis "Debug\CompilerIdC.tlog\" wird erstellt.
+InitializeBuildStatus:
+  "Debug\CompilerIdC.tlog\unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+VcpkgTripletSelection:
+  Using triplet "x64-windows" from "C:\Users\morit\vcpkg\installed\x64-windows\"
+  Using normalized configuration "Release"
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\CL.exe /c /I"C:\Users\morit\vcpkg\installed\x64-windows\include" /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W0 /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\morit\vcpkg\installed\x64-windows\lib" /LIBPATH:"C:\Users\morit\vcpkg\installed\x64-windows\lib\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "C:\Users\morit\vcpkg\installed\x64-windows\lib\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\3.25.0-rc1\CompilerIdC\CompilerIdC.exe
+AppLocalFromInstalled:
+  pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\Users\morit\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\3.25.0-rc1\CompilerIdC\CompilerIdC.exe" "C:\Users\morit\vcpkg\installed\x64-windows\bin" "Debug\CompilerIdC.tlog\CompilerIdC.write.1u.tlog" "Debug\vcpkg.applocal.log"
+  Der Befehl "pwsh.exe" ist entweder falsch geschrieben oder
+  konnte nicht gefunden werden.
+  Der Befehl "pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\Users\morit\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\3.25.0-rc1\CompilerIdC\CompilerIdC.exe" "C:\Users\morit\vcpkg\installed\x64-windows\bin" "Debug\CompilerIdC.tlog\CompilerIdC.write.1u.tlog" "Debug\vcpkg.applocal.log"" wurde mit dem Code 9009 beendet.
+  "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "C:\Users\morit\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\3.25.0-rc1\CompilerIdC\CompilerIdC.exe" "C:\Users\morit\vcpkg\installed\x64-windows\bin" "Debug\CompilerIdC.tlog\CompilerIdC.write.1u.tlog" "Debug\vcpkg.applocal.log"
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\Hostx64\x64\cl.exe
+FinalizeBuildStatus:
+  Die Datei "Debug\CompilerIdC.tlog\unsuccessfulbuild" wird gelöscht.
+  Aktualisieren des Timestamps von "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Die Erstellung von Projekt "C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\3.25.0-rc1\CompilerIdC\CompilerIdC.vcxproj" ist abgeschlossen (Standardziele).
+
+Der Buildvorgang wurde erfolgreich ausgeführt.
+    0 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:00:01.59
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/morit/Desktop/C++/Third-Dimention/build/CMakeFiles/3.25.0-rc1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+MSBuild version 17.3.1+2badb37d1 for .NET Framework
+Der Buildvorgang wurde am 06.03.2023 17:28:10 gestartet.
+Projekt "C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\3.25.0-rc1\CompilerIdCXX\CompilerIdCXX.vcxproj" auf Knoten "1" (Standardziele).
+PrepareForBuild:
+  Das Verzeichnis "Debug\" wird erstellt.
+  Das Verzeichnis "Debug\CompilerIdCXX.tlog\" wird erstellt.
+InitializeBuildStatus:
+  "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+VcpkgTripletSelection:
+  Using triplet "x64-windows" from "C:\Users\morit\vcpkg\installed\x64-windows\"
+  Using normalized configuration "Release"
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\CL.exe /c /I"C:\Users\morit\vcpkg\installed\x64-windows\include" /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W0 /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\morit\vcpkg\installed\x64-windows\lib" /LIBPATH:"C:\Users\morit\vcpkg\installed\x64-windows\lib\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "C:\Users\morit\vcpkg\installed\x64-windows\lib\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\3.25.0-rc1\CompilerIdCXX\CompilerIdCXX.exe
+AppLocalFromInstalled:
+  pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\Users\morit\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\3.25.0-rc1\CompilerIdCXX\CompilerIdCXX.exe" "C:\Users\morit\vcpkg\installed\x64-windows\bin" "Debug\CompilerIdCXX.tlog\CompilerIdCXX.write.1u.tlog" "Debug\vcpkg.applocal.log"
+  Der Befehl "pwsh.exe" ist entweder falsch geschrieben oder
+  konnte nicht gefunden werden.
+  Der Befehl "pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\Users\morit\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\3.25.0-rc1\CompilerIdCXX\CompilerIdCXX.exe" "C:\Users\morit\vcpkg\installed\x64-windows\bin" "Debug\CompilerIdCXX.tlog\CompilerIdCXX.write.1u.tlog" "Debug\vcpkg.applocal.log"" wurde mit dem Code 9009 beendet.
+  "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "C:\Users\morit\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\3.25.0-rc1\CompilerIdCXX\CompilerIdCXX.exe" "C:\Users\morit\vcpkg\installed\x64-windows\bin" "Debug\CompilerIdCXX.tlog\CompilerIdCXX.write.1u.tlog" "Debug\vcpkg.applocal.log"
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\Hostx64\x64\cl.exe
+FinalizeBuildStatus:
+  Die Datei "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" wird gelöscht.
+  Aktualisieren des Timestamps von "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Die Erstellung von Projekt "C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\3.25.0-rc1\CompilerIdCXX\CompilerIdCXX.vcxproj" ist abgeschlossen (Standardziele).
+
+Der Buildvorgang wurde erfolgreich ausgeführt.
+    0 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:00:01.23
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/morit/Desktop/C++/Third-Dimention/build/CMakeFiles/3.25.0-rc1/CompilerIdCXX/CompilerIdCXX.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/morit/Desktop/C++/Third-Dimention/build/CMakeFiles/CMakeScratch/TryCompile-ps7lwu
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_03af5.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.3.1+2badb37d1 for .NET Framework
+  Microsoft (R) C/C++-Optimierungscompiler Version 19.33.31630 für x64
+  CMakeCCompilerABI.c
+  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+  cl /c /I"C:\Users\morit\vcpkg\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_03af5.dir\Debug\\" /Fd"cmTC_03af5.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.25\Modules\CMakeCCompilerABI.c"
+  cmTC_03af5.vcxproj -> C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\CMakeScratch\TryCompile-ps7lwu\Debug\cmTC_03af5.exe
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/morit/Desktop/C++/Third-Dimention/build/CMakeFiles/CMakeScratch/TryCompile-hlqrrs
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_ea0c9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.3.1+2badb37d1 for .NET Framework
+  Microsoft (R) C/C++-Optimierungscompiler Version 19.33.31630 für x64
+  CMakeCXXCompilerABI.cpp
+  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+  cl /c /I"C:\Users\morit\vcpkg\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_ea0c9.dir\Debug\\" /Fd"cmTC_ea0c9.dir\Debug\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.25\Modules\CMakeCXXCompilerABI.cpp"
+  cmTC_ea0c9.vcxproj -> C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\CMakeScratch\TryCompile-hlqrrs\Debug\cmTC_ea0c9.exe
+
+
+
+Determining if files sys/types.h exist passed with the following output:
+Change Dir: C:/Users/morit/Desktop/C++/Third-Dimention/build/CMakeFiles/CMakeScratch/TryCompile-val2bz
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_fe8ee.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.3.1+2badb37d1 for .NET Framework
+  Microsoft (R) C/C++-Optimierungscompiler Version 19.33.31630 für x64
+  HAVE_SYS_TYPES_H.c
+  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+  cl /c /I"C:\Users\morit\vcpkg\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_fe8ee.dir\Debug\\" /Fd"cmTC_fe8ee.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\CMakeScratch\TryCompile-val2bz\HAVE_SYS_TYPES_H.c"
+  cmTC_fe8ee.vcxproj -> C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\CMakeScratch\TryCompile-val2bz\Debug\cmTC_fe8ee.exe
+
+
+
+Determining if files stdbool.h exist passed with the following output:
+Change Dir: C:/Users/morit/Desktop/C++/Third-Dimention/build/CMakeFiles/CMakeScratch/TryCompile-xnxc84
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_15a25.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.3.1+2badb37d1 for .NET Framework
+  Microsoft (R) C/C++-Optimierungscompiler Version 19.33.31630 für x64
+  HAVE_STDBOOL_H.c
+  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+  cl /c /I"C:\Users\morit\vcpkg\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_15a25.dir\Debug\\" /Fd"cmTC_15a25.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\CMakeScratch\TryCompile-xnxc84\HAVE_STDBOOL_H.c"
+  cmTC_15a25.vcxproj -> C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\CMakeScratch\TryCompile-xnxc84\Debug\cmTC_15a25.exe
+
+
+
+Determining if files fcntl.h exist passed with the following output:
+Change Dir: C:/Users/morit/Desktop/C++/Third-Dimention/build/CMakeFiles/CMakeScratch/TryCompile-zzrspq
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_afa2b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.3.1+2badb37d1 for .NET Framework
+  Microsoft (R) C/C++-Optimierungscompiler Version 19.33.31630 für x64
+  HAVE_FCNTL_H.c
+  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+  cl /c /I"C:\Users\morit\vcpkg\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_afa2b.dir\Debug\\" /Fd"cmTC_afa2b.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\CMakeScratch\TryCompile-zzrspq\HAVE_FCNTL_H.c"
+  cmTC_afa2b.vcxproj -> C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\CMakeScratch\TryCompile-zzrspq\Debug\cmTC_afa2b.exe
+
+
+
+Determining if files stdint.h exist passed with the following output:
+Change Dir: C:/Users/morit/Desktop/C++/Third-Dimention/build/CMakeFiles/CMakeScratch/TryCompile-dad7gu
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_4f994.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.3.1+2badb37d1 for .NET Framework
+  Microsoft (R) C/C++-Optimierungscompiler Version 19.33.31630 für x64
+  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+  HAVE_STDINT_H.c
+  cl /c /I"C:\Users\morit\vcpkg\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4f994.dir\Debug\\" /Fd"cmTC_4f994.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\CMakeScratch\TryCompile-dad7gu\HAVE_STDINT_H.c"
+  cmTC_4f994.vcxproj -> C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\CMakeScratch\TryCompile-dad7gu\Debug\cmTC_4f994.exe
+
+
+
+Determining if files inttypes.h exist passed with the following output:
+Change Dir: C:/Users/morit/Desktop/C++/Third-Dimention/build/CMakeFiles/CMakeScratch/TryCompile-pmd6n1
+
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_150b3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.3.1+2badb37d1 for .NET Framework
+  Microsoft (R) C/C++-Optimierungscompiler Version 19.33.31630 für x64
+  HAVE_INTTYPES_H.c
+  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+  cl /c /I"C:\Users\morit\vcpkg\installed\x64-windows\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_150b3.dir\Debug\\" /Fd"cmTC_150b3.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\CMakeScratch\TryCompile-pmd6n1\HAVE_INTTYPES_H.c"
+  cmTC_150b3.vcxproj -> C:\Users\morit\Desktop\C++\Third-Dimention\build\CMakeFiles\CMakeScratch\TryCompile-pmd6n1\Debug\cmTC_150b3.exe
+
+
+
